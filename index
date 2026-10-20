@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SweetStyle | ร้านเสื้อผ้าออนไลน์</title>
+
+  <!-- Open Graph Meta Tags สำหรับแสดงภาพพรีวิวใน LINE / Facebook -->
+  <meta property="og:title" content="SweetStyle | ร้านเสื้อผ้าออนไลน์">
+  <meta property="og:description" content="เลือกช้อปเสื้อผ้าสไตล์น่ารัก ใส่สบาย เป็นตัวเองในทุกๆ วัน ♡">
+  <meta property="og:image" content="https://i.ibb.co/rfdVXjRh/image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:type" content="website">
+
+  <!-- สำหรับ Twitter / แอปอื่นๆ -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="SweetStyle | ร้านเสื้อผ้าออนไลน์">
+  <meta name="twitter:description" content="เลือกช้อปเสื้อผ้าสไตล์น่ารัก ใส่สบาย เป็นตัวเองในทุกๆ วัน ♡">
+  <meta name="twitter:image" content="https://i.ibb.co/rfdVXjRh/image.png">
+
+  <!-- คำสั่งเด้งไปยัง Web App ของ Google Apps Script ทันที -->
+  <meta http-equiv="refresh" content="0;url=https://script.google.com/macros/s/AKfycbx6JOTB9IGW_Szb3xLBuTIZ5JHPc6xAx784d9Y2nZHfAuH4tLpJjhkoZ2G773OEktMI/exec">
+</head>
+<body>
+  <script>
+    window.location.href = "https://script.google.com/macros/s/AKfycbx6JOTB9IGW_Szb3xLBuTIZ5JHPc6xAx784d9Y2nZHfAuH4tLpJjhkoZ2G773OEktMI/exec";
+  </script>
+</body>
+</html>
